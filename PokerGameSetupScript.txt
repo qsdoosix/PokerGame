@@ -1,0 +1,265 @@
+Script started on Sun Oct 14 20:19:10 2018
+[1m[7m%[27m[1m[0m                                                                                ]2;user@Users-MacBook-Pro: ~/Documents/4004/dist]1;..04/dist[0m[27m[24m[J[39m[39m[0m[49m[44m [30m~/Documents/4004/dist [49m[34m[39m 
+[1m[30m[43m $[0m[30m[43m[39m[49m[33m [39m[K[54C[1A[39m[0m[49m[30m[39m[40m[32m [32m✔[39m [39m[38;5;244m[39m[48;5;244m[30m 2368 [39m[37m[39m[47m[30m 20:19:11[K[00m[1B[39m[49m[75D[?1h=[?2004h[1m[31mu[0m[39m[90mnzip PokerGame.zip[39m[18D[1m[31mu[1m[31mn[0m[39m[1m[31mu[1m[31mn[1m[31mz[0m[39m[1m[31mz[1m[31mi[0m[39m[0m[32mu[0m[32mn[0m[32mz[0m[32mi[32mp[39m[39m [39m[4mP[24m[4mP[39m[4mo[39m[4mk[39m[4me[39m[4mr[39m[4mG[39m[4ma[39m[4mm[39m[4me[39m[4m.[39m[4mz[39m[4mi[39m[4mp[24m[1m [0m[0m [?1l>[?2004l
+]2;unzip PokerGame.zip]1;unzipArchive:  PokerGame.zip
+   creating: PokerGame/
+   creating: PokerGame/test/
+  inflating: PokerGame/pom.xml       
+  inflating: PokerGame/README.md     
+  inflating: PokerGame/samplegame_decks.txt  
+   creating: PokerGame/src/
+   creating: PokerGame/src/test/
+   creating: PokerGame/src/test/resources/
+  inflating: PokerGame/src/test/resources/Score-9.txt  
+  inflating: PokerGame/src/test/resources/Score-8.2.txt  
+  inflating: PokerGame/src/test/resources/Strategy-3.txt  
+  inflating: PokerGame/src/test/resources/Score-10.txt  
+  inflating: PokerGame/src/test/resources/Score-8.1.txt  
+  inflating: PokerGame/src/test/resources/Strategy-1.txt  
+  inflating: PokerGame/src/test/resources/Strategy-4.txt  
+  inflating: PokerGame/src/test/resources/Strategy-7.txt  
+  inflating: PokerGame/src/test/resources/Strategy-6.txt  
+  inflating: PokerGame/src/test/resources/Score-2.1.txt  
+  inflating: PokerGame/src/test/resources/Strategy-8.txt  
+  inflating: PokerGame/src/test/resources/Score-2.2.txt  
+  inflating: PokerGame/src/test/resources/Strategy-2.4.txt  
+  inflating: PokerGame/src/test/resources/Score-6.2.txt  
+  inflating: PokerGame/src/test/resources/Score-4.1.txt  
+  inflating: PokerGame/src/test/resources/Strategy-2.1.txt  
+  inflating: PokerGame/src/test/resources/Score-6.1.txt  
+  inflating: PokerGame/src/test/resources/Score-4.2.txt  
+  inflating: PokerGame/src/test/resources/Strategy-2.2.txt  
+  inflating: PokerGame/src/test/resources/Score-1.txt  
+  inflating: PokerGame/src/test/resources/Strategy-5.2.txt  
+  inflating: PokerGame/src/test/resources/Score-3.txt  
+  inflating: PokerGame/src/test/resources/Strategy-5.1.txt  
+  inflating: PokerGame/src/test/resources/Score-7.1.txt  
+  inflating: PokerGame/src/test/resources/Score-5.2.txt  
+  inflating: PokerGame/src/test/resources/Strategy-2.5.1.txt  
+  inflating: PokerGame/src/test/resources/Score-7.2.txt  
+  inflating: PokerGame/src/test/resources/Score-5.1.txt  
+  inflating: PokerGame/src/test/resources/Strategy-2.5.2.txt  
+   creating: PokerGame/src/test/java/
+   creating: PokerGame/src/test/java/ca/
+   creating: PokerGame/src/test/java/ca/carleton/
+   creating: PokerGame/src/test/java/ca/carleton/sqa/
+   creating: PokerGame/src/test/java/ca/carleton/sqa/poker/
+  inflating: PokerGame/src/test/java/ca/carleton/sqa/poker/SymbolTest.java  
+  inflating: PokerGame/src/test/java/ca/carleton/sqa/poker/AutomatedPlayerTest.java  
+  inflating: PokerGame/src/test/java/ca/carleton/sqa/poker/AutomatedPlayerCardExchangeTest.java  
+  inflating: PokerGame/src/test/java/ca/carleton/sqa/poker/StrategyTest.java  
+  inflating: PokerGame/src/test/java/ca/carleton/sqa/poker/ScoreTest.java  
+  inflating: PokerGame/src/test/java/ca/carleton/sqa/poker/DeckAndWinningHandFileBasedTest.java  
+  inflating: PokerGame/src/test/java/ca/carleton/sqa/poker/SuitTest.java  
+  inflating: PokerGame/src/test/java/ca/carleton/sqa/poker/CardTest.java  
+   creating: PokerGame/src/main/
+   creating: PokerGame/src/main/java/
+   creating: PokerGame/src/main/java/ca/
+   creating: PokerGame/src/main/java/ca/carleton/
+   creating: PokerGame/src/main/java/ca/carleton/sqa/
+   creating: PokerGame/src/main/java/ca/carleton/sqa/poker/
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/PokerHand.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/SpaceDelimitedStringDeck.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/Suit.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/PokerHandType.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/SimplePlayer.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/Card.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/PokerPlayer.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/AutomatedPlayer.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/CardComparator.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/Symbol.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/Main.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/DeckOfCards.java  
+   creating: PokerGame/src/main/java/ca/carleton/sqa/poker/detectors/
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/detectors/StraightDetector.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/detectors/FlushDetector.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/detectors/HighCardDetector.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/detectors/PokerHandDetector.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/detectors/AbstractPokerHandDetector.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/detectors/MatchingSymbolDetector.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/Dealer.java  
+  inflating: PokerGame/src/main/java/ca/carleton/sqa/poker/PokerHandComparator.java  
+[1m[7m%[27m[1m[0m                                                                                ]2;user@Users-MacBook-Pro: ~/Documents/4004/dist]1;..04/dist[0m[27m[24m[J[39m[39m[0m[49m[44m [30m~/Documents/4004/dist [49m[34m[39m 
+[1m[30m[43m $[0m[30m[43m[39m[49m[33m [39m[K[54C[1A[39m[0m[49m[30m[39m[40m[32m [32m✔[39m [39m[38;5;244m[39m[48;5;244m[30m 2369 [39m[37m[39m[47m[30m 20:19:15[K[00m[1B[39m[49m[75D[?1h=[?2004h[1m[31mc[0m[39m[90md ..[39m[0m[32mc[32md[39m[39m [39m[4mP[24m[90mo[90mkerGame[39m[8D[4mP[39m[4mo[24m[4mo[39m[4mk[24m[4mk[39m[4me[39m[4mr[39m[4mG[39m[4ma[39m[4mm[39m[4me[1m[4m/[0m[24m[4me[24m[0m[24m [?1l>[?2004l
+]2;cd PokerGame]1;cd[1m[7m%[27m[1m[0m                                                                                ]2;user@Users-MacBook-Pro: ~/Documents/4004/dist/PokerGame]1;..rJP/PokerGame[0m[27m[24m[J[39m[39m[0m[49m[44m [30m~/Documents/4004/dist/PokerGame [49m[34m[39m 
+[1m[30m[43m $[0m[30m[43m[39m[49m[33m [39m[K[54C[1A[39m[0m[49m[30m[39m[40m[32m [32m✔[39m [39m[38;5;244m[39m[48;5;244m[30m 2370 [39m[37m[39m[47m[30m 20:19:18[K[00m[1B[39m[49m[75D[?1h=[?2004h[1m[31mm[0m[39m[90mvn clean test[39m[13D[0m[32mm[32mv[39m[32mm[32mv[32mn[39m[39m [39m-[90mv[90me[90mr[90ms[90mi[90mo[90mn[39m[39m [39m [9D[39mv[39me[39mr[39ms[39mi[39mo[39mn[?1l>[?2004l
+]2;mvn -version]1;mvn[1mApache Maven 3.5.4 (1edded0938998edf8bf061f1ceb3cfdeccf443fe; 2018-06-17T14:33:14-04:00)[m
+Maven home: /opt/apache-maven
+Java version: 10.0.2, vendor: Oracle Corporation, runtime: /Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home
+Default locale: en_CA, platform encoding: UTF-8
+OS name: "mac os x", version: "10.13.6", arch: "x86_64", family: "mac"
+[1m[7m%[27m[1m[0m                                                                                ]2;user@Users-MacBook-Pro: ~/Documents/4004/dist/PokerGame]1;..rJP/PokerGame[0m[27m[24m[J[39m[39m[0m[49m[44m [30m~/Documents/4004/dist/PokerGame [49m[34m[39m 
+[1m[30m[43m $[0m[30m[43m[39m[49m[33m [39m[K[54C[1A[39m[0m[49m[30m[39m[40m[32m [32m✔[39m [39m[38;5;244m[39m[48;5;244m[30m 2371 [39m[37m[39m[47m[30m 20:19:21[K[00m[1B[39m[49m[75D[?1h=[?2004h[1m[31mj[0m[39m[90mava -version[39m[12D[1m[31mj[1m[31ma[0m[39m[1m[31mj[1m[31ma[1m[31mv[0m[39m[0m[32mj[0m[32ma[0m[32mv[32ma[39m[39m [39m-[39mv[39me[39mr[39ms[39mi[39mo[39mn[?1l>[?2004l
+]2;java -version]1;javajava version "10.0.2" 2018-07-17
+Java(TM) SE Runtime Environment 18.3 (build 10.0.2+13)
+Java HotSpot(TM) 64-Bit Server VM 18.3 (build 10.0.2+13, mixed mode)
+[1m[7m%[27m[1m[0m                                                                                ]2;user@Users-MacBook-Pro: ~/Documents/4004/dist/PokerGame]1;..rJP/PokerGame[0m[27m[24m[J[39m[39m[0m[49m[44m [30m~/Documents/4004/dist/PokerGame [49m[34m[39m 
+[1m[30m[43m $[0m[30m[43m[39m[49m[33m [39m[K[54C[1A[39m[0m[49m[30m[39m[40m[32m [32m✔[39m [39m[38;5;244m[39m[48;5;244m[30m 2372 [39m[37m[39m[47m[30m 20:19:23[K[00m[1B[39m[49m[75D[?1h=[?2004h[1m[31mm[0m[39m[90mvn -version[39m[11D[0m[32mm[32mv[39m[32mm[32mv[32mn[39m[39m [39mc[90ml[90me[90ma[90mn[90m [90mt[90me[90mst[39m[9D[39ml[39me[39ma[39mn[39m [39m[4mt[24m[4mt[39m[4me[24m[4me[39m[4ms[24m[4ms[39m[4mt[24m[?1l>[?2004l
+]2;mvn clean test]1;mvn[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------< [0;36mca.carleton.sqa.poker:PokerGame[0;1m >-------------------[m
+[[1;34mINFO[m] [1mBuilding PokerGame 1.0.0-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-clean-plugin:2.5:clean[m [1m(default-clean)[m @ [36mPokerGame[0;1m ---[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:resources[m [1m(default-resources)[m @ [36mPokerGame[0;1m ---[m
+[[1;33mWARNING[m] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[[1;34mINFO[m] skip non existing resourceDirectory /Users/user/Documents/4004/dist/PokerGame/src/main/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.7.0:compile[m [1m(default-compile)[m @ [36mPokerGame[0;1m ---[m
+[[1;34mINFO[m] Changes detected - recompiling the module!
+[[1;33mWARNING[m] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[[1;34mINFO[m] Compiling 20 source files to /Users/user/Documents/4004/dist/PokerGame/target/classes
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:testResources[m [1m(default-testResources)[m @ [36mPokerGame[0;1m ---[m
+[[1;33mWARNING[m] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[[1;34mINFO[m] Copying 29 resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.7.0:testCompile[m [1m(default-testCompile)[m @ [36mPokerGame[0;1m ---[m
+[[1;34mINFO[m] Changes detected - recompiling the module!
+[[1;33mWARNING[m] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[[1;34mINFO[m] Compiling 8 source files to /Users/user/Documents/4004/dist/PokerGame/target/test-classes
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-surefire-plugin:2.12.4:test[m [1m(default-test)[m @ [36mPokerGame[0;1m ---[m
+[[1;34mINFO[m] Surefire report directory: /Users/user/Documents/4004/dist/PokerGame/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running ca.carleton.sqa.poker.CardTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.061 sec
+Running ca.carleton.sqa.poker.SymbolTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
+Running ca.carleton.sqa.poker.AutomatedPlayerCardExchangeTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec
+Running ca.carleton.sqa.poker.SuitTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec
+Running ca.carleton.sqa.poker.AutomatedPlayerTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.034 sec
+Running ca.carleton.sqa.poker.StrategyTest
+Tests run: 36, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.089 sec
+Running ca.carleton.sqa.poker.ScoreTest
+Tests run: 78, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.085 sec
+
+Results :
+
+Tests run: 123, Failures: 0, Errors: 0, Skipped: 0
+
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time: 3.006 s
+[[1;34mINFO[m] Finished at: 2018-10-14T20:19:30-04:00
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[1m[7m%[27m[1m[0m                                                                                ]2;user@Users-MacBook-Pro: ~/Documents/4004/dist/PokerGame]1;..rJP/PokerGame[0m[27m[24m[J[39m[39m[0m[49m[44m [30m~/Documents/4004/dist/PokerGame [49m[34m[39m 
+[1m[30m[43m $[0m[30m[43m[39m[49m[33m [39m[K[54C[1A[39m[0m[49m[30m[39m[40m[32m [32m✔[39m [39m[38;5;244m[39m[48;5;244m[30m 2373 [39m[37m[39m[47m[30m 20:19:30[K[00m[1B[39m[49m[75D[?1h=[?2004h[1m[31mm[0m[39m[0m[32mm[32mv[39m[32mm[32mv[32mn[39m compile -Pplay-interactive[30D[39m[7mm[39m[7mv[39m[7mn[7m [7mc[7mo[7mm[7mp[7mi[7ml[7me[7m [7m-[7mP[7mp[7ml[7ma[7my[7m-[7mi[7mn[7mt[7me[7mr[7ma[7mc[7mt[7mi[7mv[7me[27m[30D[27m[32mm[27m[32mv[27m[32mn[39m[27m [27mc[27mo[27mm[27mp[27mi[27ml[27me[27m [27m-[27mP[27mp[27ml[27ma[27my[27m-[27mi[27mn[27mt[27me[27mr[27ma[27mc[27mt[27mi[27mv[27me[90me[39m[90mv[90mi[90mt[90mc[90ma[90mr[90me[90mt[90mn[90ms[90ma[90mm[90mp[90ml[90me[90mg[90ma[90mm[90me[39m[39m [11D[90m-[90my[90ma[90ml[90mp[90mP[90m-[90m [90me[90ml[90mi[90mp[90mm[90ml[90me[90ma[90mn[90m [90mt[90me[90ms[90mt[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D[90mc[90m [32mm[32mv[39m[90mn[1m[31mm[0m[39m[90mv[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[32m-[39m[1m[31m-[1m[31mP[0m[39m[1m[31m-[1m[31mP[1m[31mp[0m[39m[1m[31mp[1m[31ml[0m[39m[1m[31ml[1m[31ma[0m[39m[1m[31ma[1m[31my[0m[39m[1m[31my[1m[31m-[0m[39m[1m[31m-[1m[31ms[0m[39m[1m[31ms[1m[31ma[0m[39m[1m[31ma[1m[31mm[0m[39m[1m[31mm[1m[31mp[0m[39m[1m[31mp[1m[31ml[0m[39m[1m[31ml[1m[31me[0m[39m[1m[31me[1m[31mg[0m[39m[1m[31mg[1m[31ma[0m[39m[1m[31ma[1m[31mm[0m[39m[1m[31mm[1m[31me[0m[39m[17D[0m[39m[7m-[0m[39m[7mP[0m[39m[7mp[0m[39m[7ml[0m[39m[7ma[0m[39m[7my[0m[39m[7m-[0m[39m[7ms[0m[39m[7ma[0m[39m[7mm[0m[39m[7mp[0m[39m[7ml[0m[39m[7me[0m[39m[7mg[0m[39m[7ma[0m[39m[7mm[0m[39m[7me[27m[17D[27m[1m[31m-[27m[1m[31mP[27m[1m[31mp[27m[1m[31ml[27m[1m[31ma[27m[1m[31my[27m[1m[31m-[27m[1m[31ms[27m[1m[31ma[27m[1m[31mm[27m[1m[31mp[27m[1m[31ml[27m[1m[31me[27m[1m[31mg[27m[1m[31ma[27m[1m[31mm[27m[1m[31me[0m[39m[1m[31mm[1m[31m-[1m[31mP[1m[31mp[1m[31ml[1m[31ma[1m[31my[1m[31m-[1m[31ms[1m[31ma[1m[31mm[1m[31mp[1m[31ml[1m[31me[1m[31mg[1m[31ma[1m[31mm[1m[31me[0m[39m[17D[1m[31mm[1m[31mv[1m[31m-[1m[31mP[1m[31mp[1m[31ml[1m[31ma[1m[31my[1m[31m-[1m[31ms[1m[31ma[1m[31mm[1m[31mp[1m[31ml[1m[31me[1m[31mg[1m[31ma[1m[31mm[1m[31me[0m[39m[17D[1m[31mn[1m[31m-[1m[31mP[1m[31mp[1m[31ml[1m[31ma[1m[31my[1m[31m-[1m[31ms[1m[31ma[1m[31mm[1m[31mp[1m[31ml[1m[31me[1m[31mg[1m[31ma[1m[31mm[1m[31me[0m[39m[17D[0m[32mm[0m[32mv[0m[32mn[39m[0m[39m [0m[39m-[0m[39mP[0m[39mp[0m[39ml[0m[39ma[0m[39my[0m[39m-[0m[39ms[0m[39ma[0m[39mm[0m[39mp[0m[39ml[0m[39me[0m[39mg[0m[39ma[0m[39mme[17Dc-Pplay-samplegame[17Do-Pplay-samplegame[17Dm-Pplay-samplegame[17Dp-Pplay-samplegame[17Di-Pplay-samplegame[17Dl-Pplay-samplegame[17De-Pplay-samplegame[17D -Pplay-samplegame[17D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?1l>[?2004l
+]2;mvn compile -Pplay-samplegame]1;mvn[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------< [0;36mca.carleton.sqa.poker:PokerGame[0;1m >-------------------[m
+[[1;34mINFO[m] [1mBuilding PokerGame 1.0.0-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:resources[m [1m(default-resources)[m @ [36mPokerGame[0;1m ---[m
+[[1;33mWARNING[m] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[[1;34mINFO[m] skip non existing resourceDirectory /Users/user/Documents/4004/dist/PokerGame/src/main/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.7.0:compile[m [1m(default-compile)[m @ [36mPokerGame[0;1m ---[m
+[[1;34mINFO[m] Nothing to compile - all classes are up to date
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m>>> [0;32mexec-maven-plugin:1.1.1:java[m [1m(default)[0;1m > [0;1mvalidate[m @ [36mPokerGame[0;1m >>>[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m<<< [0;32mexec-maven-plugin:1.1.1:java[m [1m(default)[0;1m < [0;1mvalidate[m @ [36mPokerGame[0;1m <<<[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mexec-maven-plugin:1.1.1:java[m [1m(default)[m @ [36mPokerGame[0;1m ---[m
+
+Hand To Beat:				D7 SK C7 D3 S7
+Initial AIP Cards:			DA DJ D10 DK DQ
+AIP exchanged [] for []
+Final AIP Cards:			DA DJ D10 DK DQ
+The winner with a ROYAL_FLUSH is: AIP!
+
+> 
+Hand To Beat:				D3 HA D5 D2 DK
+Initial AIP Cards:			H4 CA CJ HJ SJ
+AIP exchanged [H4] for [DA]
+Final AIP Cards:			DA CA CJ HJ SJ
+The winner with a FULL_HOUSE is: AIP!
+
+> 
+Hand To Beat:				H3 HA CQ C8 DQ
+Initial AIP Cards:			S8 H4 CA D8 HK
+AIP exchanged [H4, CA, HK] for [CJ, H2, D9]
+Final AIP Cards:			S8 CJ D8 H2 D9
+The winner with a PAIR is: opponent!
+
+> 
+Hand To Beat:				D7 C5 H8 S10 DJ
+Initial AIP Cards:			S2 S5 S9 SA DK
+AIP exchanged [DK] for [S3]
+Final AIP Cards:			S2 S5 S9 S3 SA
+The winner with a FLUSH is: AIP!
+
+> [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time: 0.897 s
+[[1;34mINFO[m] Finished at: 2018-10-14T20:20:26-04:00
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[1m[7m%[27m[1m[0m                                                                                ]2;user@Users-MacBook-Pro: ~/Documents/4004/dist/PokerGame]1;..rJP/PokerGame[0m[27m[24m[J[39m[39m[0m[49m[44m [30m~/Documents/4004/dist/PokerGame [49m[34m[39m 
+[1m[30m[43m $[0m[30m[43m[39m[49m[33m [39m[K[54C[1A[39m[0m[49m[30m[39m[40m[32m [32m✔[39m [39m[38;5;244m[39m[48;5;244m[30m 2374 [39m[37m[39m[47m[30m 20:20:26[K[00m[1B[39m[49m[75D[?1h=[?2004h[1m[31mm[0m[39m[0m[32mm[32mv[39m[32mm[32mv[32mn[39m compile -Pplay-interactive[30D[39m[7mm[39m[7mv[39m[7mn[7m [7mc[7mo[7mm[7mp[7mi[7ml[7me[7m [7m-[7mP[7mp[7ml[7ma[7my[7m-[7mi[7mn[7mt[7me[7mr[7ma[7mc[7mt[7mi[7mv[7me[27m[30D[27m[32mm[27m[32mv[27m[32mn[39m[27m [27mc[27mo[27mm[27mp[27mi[27ml[27me[27m [27m-[27mP[27mp[27ml[27ma[27my[27m-[27mi[27mn[27mt[27me[27mr[27ma[27mc[27mt[27mi[27mv[27me[?1l>[?2004l
+]2;mvn compile -Pplay-interactive]1;mvn[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------< [0;36mca.carleton.sqa.poker:PokerGame[0;1m >-------------------[m
+[[1;34mINFO[m] [1mBuilding PokerGame 1.0.0-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:resources[m [1m(default-resources)[m @ [36mPokerGame[0;1m ---[m
+[[1;33mWARNING[m] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[[1;34mINFO[m] skip non existing resourceDirectory /Users/user/Documents/4004/dist/PokerGame/src/main/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.7.0:compile[m [1m(default-compile)[m @ [36mPokerGame[0;1m ---[m
+[[1;34mINFO[m] Nothing to compile - all classes are up to date
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m>>> [0;32mexec-maven-plugin:1.1.1:java[m [1m(default)[0;1m > [0;1mvalidate[m @ [36mPokerGame[0;1m >>>[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m<<< [0;32mexec-maven-plugin:1.1.1:java[m [1m(default)[0;1m < [0;1mvalidate[m @ [36mPokerGame[0;1m <<<[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mexec-maven-plugin:1.1.1:java[m [1m(default)[m @ [36mPokerGame[0;1m ---[m
+
+_____________________________________________________________________________
+Entering Interactive Mode.  You can also pass in a file as the first argument
+if you'd like.
+Each line of the file represents a game, with cards delimited by spaces.
+The first 5 cards are for AIP, next 5 for the player, then cards to exchange.
+
+Please enter set of cards (eg. S2 S9 SA DK S5 C5 S10 DJ D7 H8 S3)
+Ctrl-C to Quit.
+> S2 S9 SA DK S5 C5 S10 DJ D7 H8 S3
+
+Hand To Beat:				C5 S10 DJ H8 D7
+Initial AIP Cards:			S2 SA S9 DK S5
+AIP exchanged [DK] for [S3]
+Final AIP Cards:			S2 SA S3 S9 S5
+The winner with a FLUSH is: AIP!
+
+> can input           ... can input       play with the game with this interactive console ... exiting now
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;31mBUILD FAILURE[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time: 38.955 s
+[[1;34mINFO[m] Finished at: 2018-10-14T20:21:26-04:00
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;31mERROR[m] Failed to execute goal [32morg.codehaus.mojo:exec-maven-plugin:1.1.1:java[m [1m(default)[m on project [36mPokerGame[m: [1;31mAn exception occured while executing the Java class. null[m: InvocationTargetException: Suit not recognized: . -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+[1m[7m%[27m[1m[0m                                                                                ]2;user@Users-MacBook-Pro: ~/Documents/4004/dist/PokerGame]1;..rJP/PokerGame[0m[27m[24m[J[39m[39m[0m[49m[44m [30m~/Documents/4004/dist/PokerGame [49m[34m[39m 
+[1m[30m[43m $[0m[30m[43m[39m[49m[33m [39m[K[52C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1[38;5;226m ↵[39m [39m[38;5;244m[39m[48;5;244m[30m 2375 [39m[37m[39m[47m[30m 20:21:26[K[00m[1B[39m[49m[75D[?1h=[?2004h[1m[31me[0m[39m[90mxit[39m[0m[32me[32mx[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[0m[32me[0m[32mx[0m[32mi[32mt[39m[?1l>[?2004l
+]2;exit]1;exit
+Script done on Sun Oct 14 20:21:37 2018
